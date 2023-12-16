@@ -31,11 +31,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 <body>
   <main class="qr-container">
-    <img class="qr-image" src="./images/image-qr-code.png" alt="">
-    <div class="details">
+    <img class="qr-image" src="./images/image-qr-code.png" alt="QR code to frontendmentor.io">
+    <section class="details">
       <h1 class="title">Improve your front-end skills by building projects</h1>
       <p class="sub-title">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
-    </div>
+    </section>
   </main>
 </body>
 
